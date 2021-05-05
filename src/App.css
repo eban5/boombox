@@ -15,14 +15,13 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-	.App-logo {
+	.App-logo-playing {
 		animation: App-logo-spin infinite 20s linear;
 	}
 }
 
 .brand {
 	display: inline-flex;
-	height: 40px;
 	align-items: center;
 }
 

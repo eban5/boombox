@@ -1,0 +1,11 @@
+.control-icon {
+	cursor: pointer;
+  filter: brightness(0.9);
+  display: inline-flex;
+  margin: 0 18px;
+
+}
+
+.control-icon:hover {
+	filter: brightness(1);
+}
